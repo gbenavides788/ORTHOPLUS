@@ -1,0 +1,8 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo Orthoplus">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0B5FFF"/><stop offset="1" stop-color="#28c2ff"/></linearGradient></defs>
+<rect rx="14" ry="14" x="2" y="2" width="60" height="60" fill="#0f1a2e" stroke="#183059"/>
+<path d="M10 38 L20 26 L30 46 L42 22 L54 38" stroke="url(#g)" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="20" cy="26" r="3" fill="#28c2ff"/>
+<circle cx="42" cy="22" r="3" fill="#0B5FFF"/>
+</svg>
